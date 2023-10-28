@@ -79,7 +79,7 @@ function init() {
   setTimeout(() => {
     splitScreen.style.display = "none";
     mainApp.style.display = "block";
-  }, 10000);
+  }, 6000);
 }
 
 init();
