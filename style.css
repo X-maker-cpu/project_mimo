@@ -1,3 +1,8 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
 .header {
     overflow: hidden;
     background-image: url('https://www.welocalize.com/wp-content/uploads/2022/11/Data-centric-Blog-Header-1440x438.png');
@@ -151,7 +156,7 @@
   * {box-sizing:border-box}
   
   .slideshow-container{
-    background-color: rgb(179, 173, 163);
+    background-color: white;
     height: 290px;
     width: 45%;
     border-radius: 4px;
@@ -321,9 +326,10 @@
     border-bottom: 16px solid red;
     border-left: 16px solid pink;
     border-radius: 50%;
-    width: 120px;
-    height: 120px;
+    width: 56px;
+    height: 56px;
     animation: spin 2s linear infinite;
+    justify-content: center;
     
   }
 
