@@ -5,7 +5,7 @@ body{
 
 .header {
     overflow: hidden;
-    background-color: rgb(179, 173, 163);
+    background-image: url('https://previews.123rf.com/images/mrokibul/mrokibul2302/mrokibul230200557/198174996-original-colorful-confetti-as-abstract-party-wallpaper-background-header-ai-generative.jpg');
     padding: 20px 10px;
   }
 
@@ -104,7 +104,7 @@ input[type=text], select, textarea{
   }
 
   input[type=submit] {
-    background-color: #04AA6D;
+    background-image: url('https://img.freepik.com/premium-photo/lot-colorful-confetti-black-background-with-space-text-generative-ai_946522-3454.jpg');
     color: white;
     padding: 12px 20px;
     border: none;
@@ -118,8 +118,9 @@ input[type=text], select, textarea{
     width: 50%;
     padding-left: 50%;
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-image: url('https://img.freepik.com/premium-photo/wall-triangles-with-word-it-bottom_883586-12042.jpg');
     padding: 20px;
+    color: white;
   }
 
   .col-25 {

@@ -1,18 +1,21 @@
 body{
     place-items: center;
+    background-image: url('https://cutewallpaper.org/21/colorful-nature-wallpapers/digital-Art,-Nature,-River,-Clouds,-Stars,-Forest,-Colorful-.jpg');
+    color: white;
    
 }
 
 
 .header {
     overflow: hidden;
-    background-color: rgb(179, 173, 163);
+    background-color: transparent;
     padding: 20px 10px;
+    color: white;
   }
 
   .header a {
     float: left;
-    color: black;
+    color: white;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -69,7 +72,8 @@ body{
     justify-content: center;
     align-items: center;
     gap: 20px;
-    background-color: white;
+    background-color: transparent;
+    
   }
   .search_field > img {
     height: 80px;
@@ -84,7 +88,7 @@ body{
   .search_field > button {
     height: 40px;
     border-radius: 5px;
-    background-color: rgb(189, 185, 177);
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/534/756/desktop-wallpaper-9-satisfying-satisfying-thumbnail.jpg');
     color: white;
     border: none;
     text-transform: uppercase;
