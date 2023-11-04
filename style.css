@@ -52,7 +52,7 @@ body{
   
   body{
     place-items: center;
-    background-color: white;
+    background-color: rgb(179, 173, 163);
 }
 
 .header {
@@ -120,7 +120,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 20px;
-    background-color: white;
+    background-color: #bbb;
   }
   .search_field > img {
     height: 80px;

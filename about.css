@@ -100,38 +100,4 @@ body{
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  * {
-    box-sizing: border-box;
-  }
-  
-  .bg-image {
-    /* Full height */
-    height: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
-  .img1 { background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGq4UTGGLOSV_faMx0ViwJloRnp_qMFpX7vE4plSK1QOPSumCnTvjh9bHDa3PiH7jJDh0&usqp=CAU"); }
-  .img2 { background-image: url("https://static.wixstatic.com/media/3edabd_84d905e9b0a74eae9893cfa6d0826473~mv2.jpg/v1/fill/w_1000,h_571,al_c,q_85,usm_0.66_1.00_0.01/3edabd_84d905e9b0a74eae9893cfa6d0826473~mv2.jpg"); }
-  .img3 { background-image: url("https://static.wixstatic.com/media/3edabd_84d905e9b0a74eae9893cfa6d0826473~mv2.jpg/v1/fill/w_1000,h_571,al_c,q_85,usm_0.66_1.00_0.01/3edabd_84d905e9b0a74eae9893cfa6d0826473~mv2.jpg"); }
-  .img4 { background-image: url("https://i.ytimg.com/vi/r1FYs_3oFrw/maxresdefault.jpg"); }
-  .img5 { background-image: url("https://framerusercontent.com/images/VDMxRYPWjdOlv2wbD2nz1FX9w8.jpg"); }
-  .img6 { background-image: url("https://neilpatel.com/wp-content/uploads/fly-images/107300/Testimonial-Examples_Featured-Image-1200x675-c.png"); }
-
-  .bg-text {
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-    color: white;
-    font-weight: bold;
-    font-size: 80px;
-    border: 10px solid #f1f1f1;
-    position: fixed; /* Stay fixed */
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    width: 300px;
-    padding: 20px;
-    text-align: center;
-  }
+ 
