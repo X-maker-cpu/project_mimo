@@ -1,12 +1,18 @@
+body{
+    background-image: url('https://img.freepik.com/premium-photo/abstract-background-images-wallpaper-ai-generated_643360-67660.jpg');
+}
+
 #navbar {
     overflow: hidden;
-    background-color: #fcfbfb;
+    background-color: transparent;
+    border-radius: 10px;
   }
 
   #navbar a {
     float: left;
     display: block;
-    color: #080808;
+    color: white;
+    font-family: fantasy;
     text-align: center;
     padding: 60px;
     text-decoration: none;
@@ -31,7 +37,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    justify-content: space-between;
     background-color: transparent;
   }
   .search_field > img {
@@ -51,4 +57,8 @@
     color: white;
     border: none;
     text-transform: uppercase;
+  }
+
+  .runChatBot{
+    background-color: #fcfbfb;
   }
